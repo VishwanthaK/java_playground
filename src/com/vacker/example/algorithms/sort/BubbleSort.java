@@ -1,4 +1,4 @@
-package com.vacker.example.algorithms;
+package com.vacker.example.algorithms.sort;
 
 public class BubbleSort {
 
